@@ -51,7 +51,7 @@ One of the most important preprocessing steps in a Data Science project. In this
 
 ## Correlation Check
 
-![heatmap](pictures/heatmap.png)
+![heatmap](pictures/heatmap_cc.png)
 
 ## Clustering using K-Means
 
